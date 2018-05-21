@@ -1,0 +1,17 @@
+{% extends './base.html' %}
+{% load static%}
+{% block content%}
+    <div class="container">
+       <div class="row">
+           <div class="col-md-6">
+                <img src="https://i.imgur.com/hgXq3bX.jpg" class="img img-responsive">
+           </div>
+           <div class="col-md-6">
+               <p>Budding dev changing the world one line of code at a time</p>
+               <p>Visit my github page here <span> <a href="http://www.github.com/muthangashem">
+            <img src="{% static 'images/github.svg'%}" class="img-fluid small" style="height: 40px">
+        </a></span></p>
+           </div>
+       </div>
+    </div>
+{% endblock%}
