@@ -1,8 +1,8 @@
-# Galleria [heroku]()
+# PichaFeed [heroku]()
 
 ## 
 
-## **By  PETER MUTURI**
+## **Shem Muthanga Kariuki**
 
 ## Description
 The project is a web app where users come view picture with capabilities of searching through the categories
@@ -34,6 +34,6 @@ Technology used were
 ## Support and contact details
 
 Contact us on either of our github accounts
- [Muturi254](https://github.com/muturi74).
+ [Muturi254](https://github.com/muthangashem).
 
-copyright (c) 2018 Peter [Muturi](https://github.com/muturi74)
+copyright (c) 2018 Shem [Muthanga](https://github.com/muthangashem)
