@@ -1,4 +1,4 @@
-# PichaFeed [heroku]()
+# PichaFeed [python anywhere](http://shem.pythonanywhere.com/)
 
 ## 
 
@@ -34,6 +34,6 @@ Technology used were
 ## Support and contact details
 
 Contact us on either of our github accounts
- [Muturi254](https://github.com/muthangashem).
+ [muthangashem](https://github.com/muthangashem).
 
 copyright (c) 2018 Shem [Muthanga](https://github.com/muthangashem)
